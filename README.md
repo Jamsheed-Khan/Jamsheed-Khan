@@ -1,7 +1,7 @@
 ## Hello👋 I'm Jamsheed Khan ‍💻 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Huzaifa-Khan-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa-Khan-Official" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jamsheed-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="Jamsheed-Khan" /> </p>
 
 
 
@@ -27,6 +27,80 @@
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="BOOTSTRAP" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="FIREBASE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+
+<h3 align="left">🏫 Plans of Learning :</h3>
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=nestjs,threejs,tensorflow,docker" />
+	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
+	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
+	<a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
+		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+			alt="cypress" width="40" height="40" />
+	</a>
+	<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer" title="Progressive Web Apps">
+		<img src="./imgs/pwa2.png" alt="PWA" width="55" height="35" />
+	</a>
+	<a href="https://aws.amazon.com/lambda/features/" target="_blank" title="Lambda" title="Lambda"
+		style="text-decoration: none;">
+		<img src="./imgs/lambda.png" width="40px" />
+	</a>
+</p>
+<hr>
+<br>
+	<h3> ✍️ Random Dev Quote </h3>
+	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
+</div>
+
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+
+1. 💪 Opened PR [#1](https://github.com/warishasan/React-classwork/pull/1) in [warishasan/React-classwork](https://github.com/warishasan/React-classwork)
+2. ❗ Opened issue [#3](https://github.com/ghousahmed/web-and-app-development/issues/3) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+3. 💪 Opened PR [#2](https://github.com/ghousahmed/web-and-app-development/pull/2) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+4. 💪 Opened PR [#1](https://github.com/Raza-Ur-Rehman/stopwatch/pull/1) in [Raza-Ur-Rehman/stopwatch](https://github.com/Raza-Ur-Rehman/stopwatch)
+5. 💪 Opened PR [#1](https://github.com/sadiaahmed114/Weather-App-1/pull/1) in [sadiaahmed114/Weather-App-1](https://github.com/sadiaahmed114/Weather-App-1)
+6. 💪 Opened PR [#1](https://github.com/ghousahmed/web-and-app-development/pull/1) in [ghousahmed/web-and-app-development](https://github.com/ghousahmed/web-and-app-development)
+<!--END_SECTION:activity-->
+
+<hr>
+<br>
+
+<h2> GitHub Statistics :zap: :
+	<h2 />
+	<br>
+	<p align="center">
+		<img
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamsheed-Khan&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
+	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
+	<p align="center">
+		<img src="https://wakatime.com/share/@Jamsheed-Khan/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" width="95%">
+		<br>
+		<img src="https://wakatime.com/share/@Jamsheed-Khan/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" width="95%">
+		<br><br>
+		<img
+			src="https://github-readme-stats.vercel.app/api?username=Jamsheed-Khan&show_icons=true&locale=en&count_private=true&theme=outrun" />
+		<br> <br>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamsheed-Khan&theme=outrun" />
+		<br> <br>
+		<img src="https://github-profile-trophy.vercel.app/?username=Jamsheed-Khan&theme=algolia&no-frame=true&column=-1" />
+	</p>
+
+
+<hr>
+<br>
+<p align='center'>
+	<img src='https://user-badge.committers.top/pakistan/Jamsheed-Khan.svg' align="center"
+		title="Ranking in Pakistan for Top Github committer" /></div>
+	<img src='https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg' align="center"
+		title="My Coding Stats" />
+</p>
+
+<div align='center'>
+
+
 
 
 ### I post actively on ...
