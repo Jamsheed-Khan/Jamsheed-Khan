@@ -31,7 +31,7 @@
 
 ### I post actively on ...
 
-<a href="#" title="Jamsheed Khan" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jamsheed-khan-977091298/" title="Jamsheed Khan" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### You can also find me on ...
 
