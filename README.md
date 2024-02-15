@@ -38,13 +38,7 @@
 		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
 			alt="cypress" width="40" height="40" />
 	</a>
-	<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer" title="Progressive Web Apps">
-		<img src="./imgs/pwa2.png" alt="PWA" width="55" height="35" />
-	</a>
-	<a href="https://aws.amazon.com/lambda/features/" target="_blank" title="Lambda" title="Lambda"
-		style="text-decoration: none;">
-		<img src="./imgs/lambda.png" width="40px" />
-	</a>
+	
 </p>
 <hr>
 <br>
@@ -74,22 +68,7 @@
 	<p align="center">
 		<img
 			src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamsheed-Khan&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
-	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
-	<p align="center">
-		<img src="https://wakatime.com/share/@Jamsheed-Khan/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" width="95%">
-		<br>
-		<img src="https://wakatime.com/share/@Jamsheed-Khan/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" width="95%">
-		<br><br>
-		<img
-			src="https://github-readme-stats.vercel.app/api?username=Jamsheed-Khan&show_icons=true&locale=en&count_private=true&theme=outrun" />
-		<br> <br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamsheed-Khan&theme=outrun" />
-		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=Jamsheed-Khan&theme=algolia&no-frame=true&column=-1" />
-	</p>
-
-
-<hr>
+	
 <br>
 <p align='center'>
 	<img src='https://user-badge.committers.top/pakistan/Jamsheed-Khan.svg' align="center"
