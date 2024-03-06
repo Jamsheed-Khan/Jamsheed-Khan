@@ -10,7 +10,10 @@
 ![Jamsheed-Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamsheed-Khan&show_icons=true&bg_color=00000000)
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Jamsheed-Khan&theme=dark&background=000000"/></p>
 
-
+<p>
+	[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamsheed-Khan &bg_color=11053b&color=d6d6d6&line=ffffff&point=ffab01&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+	
+</p>
 
 ### Currently I am working with ...
 
