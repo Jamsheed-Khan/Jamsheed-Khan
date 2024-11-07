@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jamshedkh365@gmail.com**
 
-- 📝 See my resume: <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto" target="_blank">Click here ...</a>
+- 📝 See my resume: <a href="https://drive.google.com/file/d/1mPz-Lbu3RU4a60Av51SouCIw0L10kzu8/view?usp=drive_link" target="_blank">Click here ...</a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jamsheed-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="Jamsheed-Khan" /> </p>
 
