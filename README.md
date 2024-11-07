@@ -7,6 +7,22 @@
 </div>
 
 
+<h1>About:</h1>
+
+- 🌱 I’m currently learning **Express.js,node.js,mongoDB.**
+
+- 👨‍💻 All of my projects are available at [https://jamsportfolio.vercel.app/](https://jamsportfolio.vercel.app/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Firebase, Python, C, Bootstrap, DSA.**
+
+- 📫 How to reach me **jamshedkh365@gmail.com**
+
+- 📝 See my resume: <a href="#" target="_blank">Click here ...</a>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jamsheed-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="Jamsheed-Khan" /> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamsheed-Khan&show_icons=true&locale=en&layout=compact" alt="Jamsheed-Khan" /></p>
+
 
 
 <div align="center"><p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Jamsheed-Khan&theme=dark&background=000000"/></p></div>
@@ -16,6 +32,7 @@
 ### Currently I am working with ...
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Express.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 
@@ -58,12 +75,8 @@
 
 <h2> GitHub Statistics :zap: :
 	<h2 />
-	<br>
-	<p align="center">
-		<img
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamsheed-Khan&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
-	
-<br>
+
+
 <p align='center'>
 	<img src='https://user-badge.committers.top/pakistan/Jamsheed-Khan.svg' align="center"
 		title="Ranking in Pakistan for Top Github committer" /></div>
@@ -76,10 +89,9 @@
 
 
 
-### I post actively on ...
+<h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/jamsheed-khan-977091298/" title="Jamsheed Khan" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/Jamsheed-Khan/" title="Jamsheed khan" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### You can also find me on ...
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=9&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33&section=footer)
 
-<a href="mailto:jamshedkh365@gmail.com" target="_blank" title="huzaifakhanofficial01@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
